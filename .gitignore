@@ -1,0 +1,10 @@
+node_modules/
+.vscode/
+
+
+# package-lock.json is to be pushed as it lists the technologies versions compatible with each other
+# For safe sight
+dist/
+build/
+.env
+.DS_Store
