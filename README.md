@@ -1,6 +1,9 @@
 # Access Portfolio
+
+'''
 Index-Page or Data Entry: http://localhost:3000
 Generated-Resume: http://localhost:3000/portfolio
+'''
 
 # Portfolio Builder
 
