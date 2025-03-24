@@ -62,12 +62,13 @@ Start the development server with:
 npm start
 ```
 
-📂 File Structure
-markdown
-Copy
+## 📂 File Structure
+
+```
 src/
 ├── pages/
 │   ├── DataEntryPage.js  # Form to input portfolio data
 │   └── PortfolioPage.js  # Display portfolio with draggable projects
 ├── App.js               # Main router
 └── index.js             # React entry point
+```
